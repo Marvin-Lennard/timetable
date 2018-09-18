@@ -1,0 +1,24 @@
+body {
+    font-size: 75%;
+    background-color: #ffffff
+}
+
+table {
+    border: 0;
+    margin: 25px;
+}
+
+th {
+    background-color: lightgray;
+    height: 5rem;
+    width: 6rem;
+}
+
+.course {
+    width: 10rem;
+    background-color: rgb(240, 240, 240)
+}
+
+.selected {
+    background-color: lightgreen;
+}
